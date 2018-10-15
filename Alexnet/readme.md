@@ -18,6 +18,6 @@ Link to the notebook on
 * [Kaggle](https://www.kaggle.com/soumikrakshit/asl-translation-using-alexnet)
 * [Github](https://github.com/Koderunners/Convolutional-Neural-Networks/blob/master/Alexnet/kernel.ipynb)
 
-The Notebook uses the (ASL Alphabet)[https://www.kaggle.com/grassknoted/asl-alphabet] dataset.
+The Notebook uses the [ASL Alphabet](https://www.kaggle.com/grassknoted/asl-alphabet) dataset.
 
 It is adviced to run the notebook in a Kaggle Kernel with a GPU.
