@@ -4,7 +4,7 @@ LeNet-5, a pioneering 7-level convolutional network by LeCun et al. in 1998, tha
 The LeNet architecture is straightforward and small, (in terms of memory footprint), making it perfect for teaching the basics of CNNs — it can even run on the CPU (if your system does not have a suitable GPU), making it a great “first CNN”.
 
 ## Architecture
-INPUT => CONV => RELU => POOL => CONV => RELU => POOL => FC => RELU => FC
+INPUT => CONV => RELU => POOL => CONV => RELU => POOL => FC => RELU => FC<br>
 In the original paper tanh activation function was used but in modern times relu activation function provides better results.
 The current implementation has been made using Tensorflow which utilizes 6 GB of Nvidia Tesla K80 GPU provided in Kaggle Kernels.
 
